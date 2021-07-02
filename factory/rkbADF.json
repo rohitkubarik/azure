@@ -1,0 +1,9 @@
+{
+	"name": "rkbADF",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "601f3bf4-e90e-4f7a-8363-18f441e5060d",
+		"tenantId": "51eb7731-41f2-4f62-afff-8f029504a8d6"
+	}
+}
